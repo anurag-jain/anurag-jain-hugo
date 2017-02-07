@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = "https://anurag-jain.github.io"
+baseurl = ""
 languageCode = "en-us"
 title = "Hugo tranquilpeak theme"
 theme = "hugo-tranquilpeak-theme"
@@ -35,7 +35,7 @@ canonifyurls = true
   job = "Software Developer"
   location = "India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatar_email = "thibaud.lepretre@gmail.com"
+  gravatar_email = "anuragjainfzd@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatar` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
@@ -81,13 +81,13 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
+  url = "https://github.com/anurag-jain"
 [[menu.links]]
   weight = 1
   identifier = "stackoverflow"
   name = "Stack Overflow"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  url = "https://stackoverflow.com/users/277375/anurag-jain"
 
 [[menu.misc]]
   weight = 0
